@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoftTaskScheduler", "LoftTaskScheduler\LoftTaskScheduler.csproj", "{E80F3ABC-1A69-4B0F-9518-18566F5FAD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoftTaskSchedulerConsoleExample", "LoftTaskSchedulerConsoleExample\LoftTaskSchedulerConsoleExample.csproj", "{082293FB-2FFB-489C-867D-71F8C9AC82D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80F3ABC-1A69-4B0F-9518-18566F5FAD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80F3ABC-1A69-4B0F-9518-18566F5FAD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80F3ABC-1A69-4B0F-9518-18566F5FAD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80F3ABC-1A69-4B0F-9518-18566F5FAD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082293FB-2FFB-489C-867D-71F8C9AC82D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082293FB-2FFB-489C-867D-71F8C9AC82D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082293FB-2FFB-489C-867D-71F8C9AC82D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082293FB-2FFB-489C-867D-71F8C9AC82D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE3E39EF-6347-4D3B-A400-FB56695754CD}
+	EndGlobalSection
+EndGlobal
